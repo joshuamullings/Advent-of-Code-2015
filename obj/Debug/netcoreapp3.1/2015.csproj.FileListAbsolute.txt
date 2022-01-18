@@ -1,0 +1,13 @@
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\bin\Debug\netcoreapp3.1\2015.exe
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\bin\Debug\netcoreapp3.1\2015.deps.json
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\bin\Debug\netcoreapp3.1\2015.runtimeconfig.json
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\bin\Debug\netcoreapp3.1\2015.runtimeconfig.dev.json
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\bin\Debug\netcoreapp3.1\2015.dll
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\bin\Debug\netcoreapp3.1\2015.pdb
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\obj\Debug\netcoreapp3.1\2015.csprojAssemblyReference.cache
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\obj\Debug\netcoreapp3.1\2015.AssemblyInfoInputs.cache
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\obj\Debug\netcoreapp3.1\2015.AssemblyInfo.cs
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\obj\Debug\netcoreapp3.1\2015.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\obj\Debug\netcoreapp3.1\2015.dll
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\obj\Debug\netcoreapp3.1\2015.pdb
+C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\obj\Debug\netcoreapp3.1\2015.genruntimeconfig.cache
