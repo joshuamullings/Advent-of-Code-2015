@@ -5,7 +5,7 @@ public class Day01_01
     public void Main()
     {
         // string of input characters
-        string input = System.IO.File.ReadAllText(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\01.txt");
+        string input = System.IO.File.ReadAllText(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\Day01.txt");
 
         // start at floor 0
         int floor = 0;

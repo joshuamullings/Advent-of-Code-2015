@@ -6,7 +6,7 @@ public class Day03_01
     public void Main()
     {
         // string of input characters
-        string input = System.IO.File.ReadAllText(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\03.txt");
+        string input = System.IO.File.ReadAllText(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\Day03.txt");
 
         // create a list to hold each char
         List<char> list = new List<char>();

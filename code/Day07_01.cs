@@ -15,7 +15,7 @@ public class Day07_01
         // RSHIFT   SixteenBit.RShift(int shift)
 
         // string array of inputs
-        string[] inputs = System.IO.File.ReadAllLines(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\07.txt");
+        string[] inputs = System.IO.File.ReadAllLines(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\Day07.txt");
 
         // list of instructions
         List<SixteenBit> instructions = new List<SixteenBit>() { };

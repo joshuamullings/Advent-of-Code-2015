@@ -16,7 +16,7 @@ public class Day05_01
         string[] disallowedDoubles = new string[] { "ab", "cd", "pq", "xy" };
 
         // string array of inputs
-        string[] inputs = System.IO.File.ReadAllLines(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\05.txt");
+        string[] inputs = System.IO.File.ReadAllLines(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\Day05.txt");
 
         // flags
         bool doubleLetter;

@@ -6,7 +6,7 @@ public class Day06_02
     public void Main()
     {
         // string array of inputs
-        string[] inputs = System.IO.File.ReadAllLines(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\06.txt");
+        string[] inputs = System.IO.File.ReadAllLines(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\Day06.txt");
 
         // list of movements
         int[,] movements = new int[inputs.Length,4];

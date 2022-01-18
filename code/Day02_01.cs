@@ -6,7 +6,7 @@ public class Day02_01
     public void Main()
     {
         // string array of inputs
-        string[] inputs = System.IO.File.ReadAllLines(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\02.txt");
+        string[] inputs = System.IO.File.ReadAllLines(@"C:\Users\Joshua\Desktop\Programming\Advent of Code\2015\Inputs\Day02.txt");
 
         // list to hold dimentions
         List<int> dimentions = new List<int>(3 * inputs.Length);
